@@ -1,0 +1,194 @@
+\documentclass[11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{inter} 
+\renewcommand*\familydefault{\sfdefault}
+
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    top=1.8cm,
+    bottom=1in,
+    left=1.5cm,
+    right=1.5cm
+}
+
+\setcounter{secnumdepth}{0} % remove section numbering
+\pdfgentounicode=1 % make ATS friendly
+
+\usepackage{enumitem}
+\setlist[itemize]{
+    noitemsep,
+    left=.7em
+}
+\setlist[description]{itemsep=0pt}
+\setlist[enumerate]{align=left}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color,graphicx}
+\definecolor{blue}{RGB}{0,102,204}
+\definecolor{iconblue}{RGB}{30,109,220}
+\colorlet{icnclr}{gray}
+\usepackage{titlesec}
+\titlespacing{\subsection}{0pt}{1pt}{1pt}
+\titlespacing{\subsubsection}{0pt}{1pt}{1pt}
+\titleformat{\section}{\color{blue}\large\fontseries{black}\selectfont\uppercase}{}{}{\ruleafter}[\global\RemVStrue]
+\titleformat{\subsection}{\fontseries{bold}\selectfont}{}{}{\rvs}
+\titleformat{\subsubsection}{\color{gray}\fontseries{bold}\selectfont}{}{}{}
+
+\usepackage{xhfill} 
+\newcommand\ruleafter[1]{#1~\xrfill[.5ex]{1pt}[blue]} % add rule after title in .5 x-height 
+
+\newif\ifRemVS % remove vspace between \section & \subsection
+\newcommand{\rvs}{
+    \ifRemVS
+        \vspace{-1ex}
+    \fi
+    \global\RemVSfalse
+}
+
+\usepackage{fontawesome5}
+
+\usepackage[bookmarks=false]{hyperref} % [imp!]
+\hypersetup{ 
+    colorlinks=true,
+    urlcolor=iconblue,
+    pdftitle={My Resume},
+}
+
+\usepackage[page]{totalcount}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}	
+\fancyhf{}							
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\begin{document}
+
+%== HEADER ==%
+
+\begin{flushleft}
+    {\fontsize{30}{30}\selectfont Revathy Venugopal} \\ \bigskip
+    
+    {\color{icnclr}\faMapMarker} {Lyon, France} \\ \bigskip
+    {\color{icnclr}\faEnvelope[regular]} \href{mailto:revathyvenugopal162@gmail.com}{revathyvenugopal162@gmail.com} \\ \bigskip
+    {\color{icnclr}\faIcon{mobile-alt}} \href{tel:+33769359272}{+33 769359272} \\ \bigskip
+    % You can also put your LinkedIn or website address
+    {\color{icnclr}\faLinkedinIn} \href{https://www.linkedin.com/in/revathy-venugopal-3310b5147/}{Revathy Venugopal}
+\end{flushleft}
+\noindent
+\hfill
+\raisebox{0pt}[0pt][0pt]{\includegraphics[width=0.35\textwidth]{example-image}} % Adjust vertical alignment and widthalignment and width
+
+%==============
+%==============
+%==============
+\noindent
+Innovative and passionate \textbf{software developer}, seeking to leverage extensive background in Software development.
+Proficient in Python programming, I have successfully developed and maintained multiple scalable and efficient software applications.
+Demonstrated strong problem-solving skills by implementing optimised algorithms and data structures in Python, significantly improving system performance.
+%==============
+%==============
+%==============
+%==============
+%
+\section{Skills}
+%==============
+%==============
+\subsection{Computational}
+\begin{itemize}
+    \item[-] \textcolor{Sepia}{MATLAB}:
+    \item[\textbullet] Implemented XYZ method - Accomplished [X] as measured by [Y], by doing [Z].  
+    \item[\textbullet] Perfomed XYZ with ABC. 
+    \item[\textbullet] Implemented XYZ library for ABC. 
+    \item[-] \textcolor{Sepia}{Python}: 
+    \item[\textbullet] Implemented XYZ method - Accomplished [X] as measured by [Y], by doing [Z].  
+    \item[\textbullet] Perfomed XYZ with ABC. 
+    \item[\textbullet] Implemented XYZ library for ABC.
+\end{itemize}
+\subsection{Problem Solving}
+\begin{itemize}
+    \item[\textbullet] Investigated ....(complete these sentences or use another action verb)
+    \item[\textbullet] Formulated .........
+    \item[\textbullet] Coordinated ....
+    \item[\textbullet] Created .........
+    \item[\textbullet] Evaluated .........
+\end{itemize}
+\subsection{Typesetting}
+\begin{itemize}
+    \item[-] \textcolor{Sepia}{\LaTeX}: 
+    \item[\textbullet] Implemented XYZ method. 
+    \item[\textbullet] Wrote CBA. 
+    \item[\textbullet] Worked collaboratively on.... 
+    \item[\textbullet] Created ....
+    \item[-] \textcolor{Sepia}{MS Word}:  
+    \item[\textbullet] Implemented XYZ method. 
+    \item[\textbullet] Wrote CBA. 
+    \item[\textbullet] Worked collaboratively on.... 
+    \item[\textbullet] Created ....
+\end{itemize}
+\subsection{Languages}
+\begin{itemize}
+    \item[-] \textcolor{Sepia}{Pashto}: Mother tongue
+    \item[-] \textcolor{Sepia}{Urdu}: Second language
+    \item[-] \textcolor{Sepia}{English}: Very good
+        \item[\textbullet] IELTS: Reading--7, Writing--7.5, Speaking--6, Listening--6.
+        \item[\textbullet] \textit{Writing:}  Demonstrated by my XYZ and......
+        \item[\textbullet] \textit{Reading:}  Evident by my XYZ and......
+        \item[\textbullet] \textit{Speaking and Listening:} Supported by my XYZ and.....
+    \end{itemize}
+
+%==============
+%==============
+\section{Professional Qualification}
+%==============
+%==============
+\subsection{Bachelors of Education \hfill \normalfont 20XZ}
+\subsubsection{Open University,  City, Country }
+\begin{itemize}
+    \item[\textbullet] \textit{Marks:} 80\% %\textit{}
+    \item[\textbullet] \textit{Key Training:} Received training on ABC, XYZ and CCC
+    \item[\textbullet] \textit{Thesis:} Completed a notable research project on [specific topic], contributing valuable insights to educational practices
+\end{itemize}
+
+\subsection{Diploma in Information Technology \hfill \normalfont 20XX}
+\subsubsection{Institute,  City, Country }
+\begin{itemize}
+    \item[\textbullet] \textit{Marks:} 64.8\% %\textit{}
+    \item[\textbullet] \textit{Key Training:} Received training on ABC, XYZ and CCC
+    \item[\textbullet] \textit{Thesis:} Completed a notable project on [topic].
+\end{itemize}
+%==============
+%==============
+%==============
+%==============
+\section{Experience}
+%==============
+%==============
+\subsection{Private Maths Tutor \hfill \normalfont Feb 20XX -- July 20XY}
+\subsubsection{City, Country}
+% Start all items with action verbs
+\begin{itemize}
+    \item[\textbullet] Implemented XYZ method - Accomplished [X] as measured by [Y], by doing [Z] 
+    \item[\textbullet]  Developed XYZ using ABC that led to X\% improvement 
+    \item[\textbullet] Solved ABC with AAA method leading to CCC.
+    \item[\textbullet]  Accomplished XYZ feature to accomplish ABC.
+    \item[\textbullet]  Implemented XYZ library for ABC.
+\end{itemize}
+
+\subsection{Role Name \hfill \normalfont Jan 20XX - Feb 20XY}
+\subsubsection{Company Name, City, Country}
+% Start all items with action verbs
+\begin{itemize}
+    \item[\textbullet] Implemented XYZ method - Accomplished [X] as measured by [Y], by doing [Z] 
+    \item[\textbullet]  Developed XYZ using ABC that led to X\% improvement 
+    \item[\textbullet] Solved ABC with AAA method leading to CCC.
+    \item[\textbullet]  Accomplished XYZ feature to accomplish ABC.
+    \item[\textbullet]  Implemented XYZ library for ABC.
+\end{itemize}
+%==============
+%==============
+%==============
+%==============
+\end{document}
