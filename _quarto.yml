@@ -13,5 +13,6 @@ format:
       light: flatly
       dark: darkly
     toc: true
+    css: styles.css
 execute: 
   freeze: auto
