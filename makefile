@@ -5,8 +5,7 @@
 
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: clean Revathy-venugopal.pdf revathy-simple-resume
-
+all: clean Revathy-venugopal.pdf 
 # MAIN LATEXMK RULE
 
 # -pdf tells latexmk to generate PDF directly (instead of DVI).
@@ -26,3 +25,4 @@ revathy-simple-resume: src/resume/revathy-simple-resume.tex
 
 clean:
 	latexmk -CA src/resume/revathy-venugopal.tex -cd -auxdir=out -outdir=out
+	latexmk -CA src/resume/revathy-simple-resume.tex -cd -auxdir=out -outdir=out

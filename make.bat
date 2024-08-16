@@ -10,7 +10,7 @@ if "%1" == "complex-pdf" goto complex-pdf
 :pdf
 cd src/resume
 pdflatex -output-directory=%BUILDDIR% revathy-simple-resume.tex --interaction=nonstopmode
-if NOT EXIST %BUILDDIR%/test.pdf (
+if NOT EXIST %BUILDDIR%/revathy-simple-resume.pdf (
 Echo "no pdf generated!"
 exit /b 1)
 Echo "pdf generated!"
