@@ -46,11 +46,6 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v4
 
-      - name: install latexmk
-        run: |
-          sudo apt-get update -y
-          sudo apt install graphicsmagick-imagemagick-compat
-
       - name: Install LaTeX build tools
         run: |
           sudo apt-get update -y

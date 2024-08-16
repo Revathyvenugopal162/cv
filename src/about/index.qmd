@@ -3,7 +3,7 @@ title: "Revathy Venugopal"
 format: html
 about:
   template: solana
-  image: "image.png"
+  image: "../assets/revathy.jpg"
   links: 
     - icon: github
       text: "GitHub"
