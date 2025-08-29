@@ -1,0 +1,96 @@
+[
+  {
+    "objectID": "src/index.html",
+    "href": "src/index.html",
+    "title": "Revathy Venugopal",
+    "section": "",
+    "text": "I’m Revathy Venugopal, a passionate developer from India with a Master’s degree in Automotive Embedded Systems from ESIGELEC & MAHE. I have experience in image processing using TensorFlow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "src/index.html#about-me",
+    "href": "src/index.html#about-me",
+    "title": "Revathy Venugopal",
+    "section": "",
+    "text": "I’m Revathy Venugopal, a passionate developer from India with a Master’s degree in Automotive Embedded Systems from ESIGELEC & MAHE. I have experience in image processing using TensorFlow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "src/index.html#education",
+    "href": "src/index.html#education",
+    "title": "Revathy Venugopal",
+    "section": "Education",
+    "text": "Education\n\nMaster’s in Automotive Embedded Systems from ESIGELEC & MAHE\nBachelor’s in Electronics and Communication Engineering from CEM",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "src/index.html#experience",
+    "href": "src/index.html#experience",
+    "title": "Revathy Venugopal",
+    "section": "Experience",
+    "text": "Experience\n\nSoftware Developer at Ansys\nIntern at SITIA Robotique",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "src/index.html#resume",
+    "href": "src/index.html#resume",
+    "title": "Revathy Venugopal",
+    "section": "Resume",
+    "text": "Resume\nFind my Complete Resume 🙂.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "src/posts/post_2.html",
+    "href": "src/posts/post_2.html",
+    "title": "Post @me",
+    "section": "",
+    "text": "lorem ipsum dolor sit amet consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "crumbs": [
+      "Posts",
+      "Post @me"
+    ]
+  },
+  {
+    "objectID": "src/posts/post_2.html#this-is-test",
+    "href": "src/posts/post_2.html#this-is-test",
+    "title": "Post @me",
+    "section": "",
+    "text": "lorem ipsum dolor sit amet consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "crumbs": [
+      "Posts",
+      "Post @me"
+    ]
+  },
+  {
+    "objectID": "src/posts/post_1.html",
+    "href": "src/posts/post_1.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "lorem ipsum dolor sit amet consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "crumbs": [
+      "Posts",
+      "Post With Code"
+    ]
+  },
+  {
+    "objectID": "src/posts/post_1.html#this-is-test",
+    "href": "src/posts/post_1.html#this-is-test",
+    "title": "Post With Code",
+    "section": "",
+    "text": "lorem ipsum dolor sit amet consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "crumbs": [
+      "Posts",
+      "Post With Code"
+    ]
+  }
+]
