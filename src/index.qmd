@@ -1,9 +1,10 @@
 ---
 title: "Revathy Venugopal"
+description: "A passionate developer specializing in Automotive Embedded Systems."
 format: html
 about:
   template: solana
-  image: "../assets/revathy.jpg"
+  # image: "/assets/revathy.jpg"
   links: 
     - icon: github
       text: "GitHub"
