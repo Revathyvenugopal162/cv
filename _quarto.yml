@@ -2,6 +2,7 @@ project:
   type: website
 
 website: 
+  page-footer: "Copyright © 2025 Revathy Venugopal"
   title: "Revathy Venugopal"
   navbar:
     search: true

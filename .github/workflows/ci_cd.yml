@@ -90,7 +90,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.6.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
+          repository-name: Revathyvenugopal162/revathyvenugopal162.github.io
           folder: site
           clean: true
           single-commit: true
