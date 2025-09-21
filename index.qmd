@@ -17,7 +17,7 @@ about:
       href: "mailto:revathyvenugopal162@gmail.com"
     - icon: file-earmark-pdf
       text: "Resume"
-      href: "https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf"
+      href: "https://revathyvenugopal162.github.io/revathy-venugopal.pdf"
 ---
 
 ## About Me
