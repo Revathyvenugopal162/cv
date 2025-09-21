@@ -16,13 +16,13 @@ website:
         href: mailto:revathyvenugopal162@gmail.com
   sidebar:
     contents: 
-      - href: src/index.qmd
+      - href: index.qmd
         text: "Home"
       - section: "Blog Posts"
         contents:
-          - href: src/posts/ai-ml-journey.qmd
+          - href: posts/ai-ml-journey.qmd
             text: "AI/ML Journey"
-          - href: src/posts/search-solutions-evolution.qmd
+          - href: posts/search-solutions-evolution.qmd
             text: "Search Solutions Evolution"
 
 # format: 
