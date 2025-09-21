@@ -85,12 +85,11 @@ jobs:
           cp src/resume/out/revathy-venugopal.pdf site/
           cp src/resume/out/revathy-venugopal.png site/
 
-      - name: Deploy CV to gh-pages
-        # if: github.ref == 'refs/heads/main'
+      - name: Deploy CV to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.6.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          repository-name: Revathyvenugopal162/revathyvenugopal162.github.io
+          branch: main
           folder: site
           clean: true
           single-commit: true
