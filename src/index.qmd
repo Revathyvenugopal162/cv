@@ -21,7 +21,9 @@ about:
 ---
 
 ## About Me
-I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), a passionate developer from India with a Master's degree in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experience in image processing using TensorFlow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python ([PyAnsys](https://github.com/ansys))
+I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), an innovative and passionate **software developer** based in Lyon, France. I hold Master's degrees in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) (France) & [MAHE](https://manipal.edu/msis.html) (India). 
+
+Proficient in Python programming, I have successfully developed and maintained multiple scalable and efficient software applications. I demonstrate strong problem-solving skills by implementing optimized algorithms and data structures in Python, significantly improving system performance. Currently, I work as a full-time R&D Engineer at Ansys, specializing in Python development ([PyAnsys](https://github.com/ansys)).
 
 ## 🚀 What I Do
 
@@ -71,7 +73,7 @@ I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/
 [ESIGELEC](https://www.esigelec.fr/fr), France  
 *2020-2022*
 
-Focus: Software development, machine learning, robotics, computer vision
+Focus: Embedded systems, software development, machine learning, robotics, computer vision
 :::
 
 ::: {.g-col-4}
@@ -80,16 +82,16 @@ Focus: Software development, machine learning, robotics, computer vision
 [MAHE](https://manipal.edu/msis.html), India  
 *2020-2022*
 
-Focus: Real-time systems, IoT, embedded C, automotive protocols
+Focus: Automotive embedded systems, software development, machine learning, robotics, computer vision, IoT, embedded C, real-time operating systems
 :::
 
 ::: {.g-col-4}
 ### Bachelor's Degree
-**Electrical & Electronics**  
+**Electrical & Electronics Engineering**  
 [CEM](https://www.cem.ac.in/), India  
 *2014-2018*
 
-Focus: Power systems, control systems, electronics design
+Focus: Electrical and electronics engineering, power systems, electrical machines, control systems, power electronics
 :::
 
 :::
@@ -100,6 +102,7 @@ Focus: Power systems, control systems, electronics design
 
 ### Programming Languages
 - **Primary**: Python, JavaScript, HTML, CSS
+- **Systems**: C (Embedded Systems)
 - **Web Technologies**: Fuse.js, MeiliSearch, REST APIs
 - **Markup**: LaTeX, Markdown, reStructuredText
 - **Database**: JSON indexing, Search optimization
@@ -150,10 +153,17 @@ Focus: Power systems, control systems, electronics design
 
 ## 📚 Continuous Learning
 
-### Recent Certifications
-- **Using Python to Access Web Data** - Coursera (2021)
-- **Introduction to Programming Using Python** - Coursera (2020)
-- **Python Data Structures** - Coursera (2020)
+### Completed Courses & Certifications
+
+**Pluralsight Courses:**
+- **Vector Space Models and Embeddings in RAGs** (August 2024): Advanced RAG implementations, vector embeddings, semantic search
+- **Docker and Kubernetes: The Big Picture** (August 2023, 1.8 hrs): Containerization, orchestration, DevOps practices
+- **JavaScript: Getting Started** (March 2023, 4 hrs): JavaScript fundamentals, web development, DOM manipulation
+
+**Coursera Certifications:**
+- **Using Python to Access Web Data** (2021): Python, web data, web scraping, web services, XML, JSON
+- **Introduction to Programming Using Python** (2020): Python, programming, data structures, algorithms
+- **Python Data Structures** (2020): Python, data structures, algorithms, programming
 
 ### Currently Exploring
 - Advanced Large Language Models
@@ -168,10 +178,12 @@ Focus: Power systems, control systems, electronics design
 ::: {.g-col-6}
 ### Soft Skills
 - Problem-solving & Critical thinking
-- Team collaboration & Leadership
+- Teamwork & Collaboration
 - Communication & Presentation
 - Adaptability & Time management
-- Emotional intelligence
+- Leadership & Decision-making
+- Creativity & Emotional intelligence
+- Conflict resolution & Stress management
 :::
 
 ::: {.g-col-6}
