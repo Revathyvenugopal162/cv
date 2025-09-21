@@ -15,14 +15,14 @@ all: clean Revathy-venugopal.pdf
 # -interaction=nonstopmode keeps the pdflatex backend from stopping at a
 # missing file reference and interactively asking you for an alternative.
 
-Revathy-venugopal.pdf: src/resume/revathy-venugopal.tex
-	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make src/resume/revathy-venugopal.tex -cd -auxdir=out -outdir=out
-	convert -density 150 -scene 1 src/resume/out/revathy-venugopal.pdf src/resume/out/revathy-venugopal.png
+Revathy-venugopal.pdf: resume/revathy-venugopal.tex
+	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make resume/revathy-venugopal.tex -cd -auxdir=out -outdir=out
+	convert -density 150 -scene 1 resume/out/revathy-venugopal.pdf resume/out/revathy-venugopal.png
 
-revathy-simple-resume: src/resume/revathy-simple-resume.tex
-	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make src/resume/revathy-simple-resume.tex -cd -auxdir=out -outdir=out
-	convert -density 150 -scene 1 src/resume/out/revathy-simple-resume.pdf src/resume/out/revathy-simple-resume.png
+revathy-simple-resume: resume/revathy-simple-resume.tex
+	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make resume/revathy-simple-resume.tex -cd -auxdir=out -outdir=out
+	convert -density 150 -scene 1 resume/out/revathy-simple-resume.pdf resume/out/revathy-simple-resume.png
 
 clean:
-	latexmk -CA src/resume/revathy-venugopal.tex -cd -auxdir=out -outdir=out
-	latexmk -CA src/resume/revathy-simple-resume.tex -cd -auxdir=out -outdir=out
+	latexmk -CA resume/revathy-venugopal.tex -cd -auxdir=out -outdir=out
+	latexmk -CA resume/revathy-simple-resume.tex -cd -auxdir=out -outdir=out

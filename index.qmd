@@ -1,0 +1,222 @@
+---
+title: "Revathy Venugopal"
+description: "A passionate developer specializing in Automotive Embedded Systems, AI/ML, and Python Development."
+format: html
+about:
+  template: solana
+  image: "assets/revathy.jpg"
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/Revathyvenugopal162/
+    - icon: linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/revathy-venugopal-3310b5147/
+    - icon: envelope
+      text: "Email"
+      href: "mailto:revathyvenugopal162@gmail.com"
+    - icon: file-earmark-pdf
+      text: "Resume"
+      href: "https://revathyvenugopal162.github.io/revathy-venugopal.pdf"
+---
+
+## About Me
+I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), an innovative and passionate **software developer** based in Lyon, France. I hold Master's degrees in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) (France) & [MAHE](https://manipal.edu/msis.html) (India). 
+
+Proficient in Python programming, I have successfully developed and maintained multiple scalable and efficient software applications. I demonstrate strong problem-solving skills by implementing optimized algorithms and data structures in Python, significantly improving system performance. Currently, I work as a full-time R&D Engineer at Ansys, specializing in Python development ([PyAnsys](https://github.com/ansys)).
+
+## 🚀 What I Do
+
+::: {.grid}
+
+::: {.g-col-6}
+### 🔧 Software Development
+- **Python Development**: Building efficient and scalable applications
+- **AI/ML**: Developing RAG-based LLM solutions
+- **Computer Vision**: TensorFlow, OpenCV, PyTorch implementations
+- **Documentation**: Creating comprehensive Sphinx documentation
+:::
+
+::: {.g-col-6}
+### 🤖 Embedded Systems
+- **Automotive Systems**: Real-time operating systems and embedded C
+- **Robotics**: Obstacle detection and autonomous navigation
+- **IoT Development**: Connected device solutions
+- **Hardware Integration**: Sensor fusion and control systems
+:::
+
+:::
+
+## 💼 Professional Experience
+
+### R&D Engineer at Ansys (2022 - Present)
+- PyAnsys Core Team: Main contributor to the PyAnsys core team, maily focusing on automation and maintainance of PyAnsys libraries.
+- PyDyna Maintainer: One of the maintainers for PyDyna, contributing to simulation modules, automation, and community support
+- Theme Development: Develop and maintain Ansys Sphinx themes using HTML, CSS, JavaScript, and Python
+- Frontend Technologies: Create responsive and interactive theme components using modern web technologies
+- Search Solutions: Architected and implemented advanced search functionality for Ansys Sphinx theme, transitioning from MeiliSearch backend to static Fuse.js implementation
+- Build Systems: Design and implement automated build processes for theme distribution and updates
+- Community Engagement: Support users, manage issues, and onboard contributors for PyAnsys ecosystem
+- AI/ML Solutions: Develop RAG-based LLM using cutting-edge AI/ML techniques
+- Collaboration: Use GitHub for version control and team collaboration
+
+### Machine Learning & Robotics Intern at SITIA Robotique (2021-2022)
+- **Computer Vision**: Developed Python-based software for robot vision systems
+- **Algorithm Development**: Implemented obstacle detection and avoidance algorithms
+- **Deep Learning**: Applied TensorFlow and OpenCV for real-time processing
+
+## 🎓 Education
+
+::: {.grid}
+
+::: {.g-col-4}
+### Master's Degree
+**Embedded Systems**  
+[ESIGELEC](https://www.esigelec.fr/fr), France  
+*2020-2022*
+
+Focus: Embedded systems, software development, machine learning, robotics, computer vision
+:::
+
+::: {.g-col-4}
+### Master's Degree
+**Automotive Embedded Systems**  
+[MAHE](https://manipal.edu/msis.html), India  
+*2020-2022*
+
+Focus: Automotive embedded systems, software development, machine learning, robotics, computer vision, IoT, embedded C, real-time operating systems
+:::
+
+::: {.g-col-4}
+### Bachelor's Degree
+**Electrical & Electronics Engineering**  
+[CEM](https://www.cem.ac.in/), India  
+*2014-2018*
+
+Focus: Electrical and electronics engineering, power systems, electrical machines, control systems, power electronics
+:::
+
+:::
+
+## 🛠️ Technical Skills
+
+::: {.panel-tabset}
+
+### Programming Languages
+- **Primary**: Python, JavaScript, HTML, CSS
+- **Systems**: C (Embedded Systems)
+- **Web Technologies**: Fuse.js, MeiliSearch, REST APIs
+- **Markup**: LaTeX, Markdown, reStructuredText
+- **Database**: JSON indexing, Search optimization
+
+### AI/ML & Computer Vision
+- **Frameworks**: TensorFlow, PyTorch, OpenCV
+- **Techniques**: Object Detection (YOLO), Image Processing
+- **Applications**: Robotics, Autonomous Systems, RAG-based LLM
+
+### Development Tools
+- **Version Control**: Git, GitHub, Bitbucket
+- **Containers**: Docker
+- **CI/CD**: GitHub Actions, Automated Testing
+- **Documentation**: Sphinx, Jupyter Notebooks, Ansys Sphinx Theme
+- **Search Systems**: MeiliSearch, Fuse.js, Static indexing
+- **Web Scraping**: BeautifulSoup, Scrapy, Async processing
+
+### Embedded Systems
+- **Microcontrollers**: ARM, AVR
+- **RTOS**: Real-time operating systems
+- **Protocols**: CAN, I2C, SPI, UART
+- **Tools**: Embedded IDEs, Debuggers
+
+:::
+
+## 🏆 Projects & Achievements
+
+### Autonomous Robot Navigation System
+- Developed obstacle detection algorithms using computer vision
+- Implemented real-time path planning and navigation
+- **Technologies**: Python, TensorFlow, OpenCV, ROS
+
+### RAG-based LLM Development
+- Built retrieval-augmented generation systems for technical documentation
+- Integrated with existing software development workflows
+- **Technologies**: Python, Transformers, Vector Databases
+
+### Advanced Search Solutions for Documentation
+- Developed comprehensive search infrastructure for Ansys Sphinx theme
+- Implemented both backend (MeiliSearch) and static (Fuse.js) search solutions
+- Created Python scrapers and indexers for multi-version private documentation
+- **Technologies**: Python, JavaScript, Fuse.js, MeiliSearch, Sphinx
+
+### Automotive Embedded Systems
+- Designed real-time control systems for automotive applications
+- Implemented safety-critical software following industry standards
+- **Technologies**: Python, Data Analysis, Simulation Software
+
+## 📚 Continuous Learning
+
+### Completed Courses & Certifications
+
+**Pluralsight Courses:**
+- **Vector Space Models and Embeddings in RAGs** (August 2024): Advanced RAG implementations, vector embeddings, semantic search
+- **Docker and Kubernetes: The Big Picture** (August 2023, 1.8 hrs): Containerization, orchestration, DevOps practices
+- **JavaScript: Getting Started** (March 2023, 4 hrs): JavaScript fundamentals, web development, DOM manipulation
+
+**Coursera Certifications:**
+- **Using Python to Access Web Data** (2021): Python, web data, web scraping, web services, XML, JSON
+- **Introduction to Programming Using Python** (2020): Python, programming, data structures, algorithms
+- **Python Data Structures** (2020): Python, data structures, algorithms, programming
+
+### Currently Exploring
+- Advanced Large Language Models
+- Edge AI and Embedded ML
+- Automotive Cybersecurity
+- Cloud-native Development
+
+## 🌟 Soft Skills & Languages
+
+::: {.grid}
+
+::: {.g-col-6}
+### Soft Skills
+- Problem-solving & Critical thinking
+- Teamwork & Collaboration
+- Communication & Presentation
+- Adaptability & Time management
+- Leadership & Decision-making
+- Creativity & Emotional intelligence
+- Conflict resolution & Stress management
+:::
+
+::: {.g-col-6}
+### Languages
+- **English**: Fluent (C1)
+- **French**: Intermediate (B2)
+- **Hindi**: Native
+- **Malayalam**: Native
+:::
+
+:::
+
+## 🎯 Interests & Hobbies
+
+When I'm not coding, you'll find me:
+
+- 🎵 **Music**: Playing instruments and exploring different genres
+- 📚 **Reading**: Technical blogs, sci-fi novels, and research papers
+- 👩‍🍳 **Cooking**: Experimenting with international cuisines
+- ✈️ **Traveling**: Exploring new cultures and technologies worldwide
+- 🏃‍♀️ **Fitness**: Running and outdoor activities
+
+## 📄 Resume
+
+Find my [Complete Resume](https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf) for detailed information about my experience and qualifications.
+
+## � Get In Touch
+
+I'm always interested in discussing new opportunities, collaborating on exciting projects, or simply chatting about technology. Feel free to reach out!
+
+::: {.callout-tip}
+## Let's Connect!
+Whether you're looking for a passionate developer, want to discuss the latest in AI/ML, or need expertise in embedded systems, I'd love to hear from you.
+:::
