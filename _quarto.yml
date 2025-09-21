@@ -17,17 +17,13 @@ website:
   sidebar:
     contents: 
       - href: src/index.qmd
-        text: "🏠 Home"
-      - section: "📝 Blog Posts"
+        text: "Home"
+      - section: "Blog Posts"
         contents:
           - href: src/posts/ai-ml-journey.qmd
             text: "AI/ML Journey"
-          - href: src/posts/technical-projects-showcase.qmd
-            text: "Technical Projects"
           - href: src/posts/search-solutions-evolution.qmd
             text: "Search Solutions Evolution"
-          - src/posts/post_1.qmd
-          - src/posts/post_2.qmd
 
 # format: 
 #   html: 

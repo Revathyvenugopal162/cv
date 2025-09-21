@@ -4,7 +4,7 @@ description: "A passionate developer specializing in Automotive Embedded Systems
 format: html
 about:
   template: solana
-  image: "/assets/revathy.jpg"
+  image: "assets/revathy.jpg"
   links: 
     - icon: github
       text: "GitHub"
@@ -50,13 +50,15 @@ Proficient in Python programming, I have successfully developed and maintained m
 ## 💼 Professional Experience
 
 ### R&D Engineer at Ansys (2022 - Present)
-- **Python Development**: Build efficient applications using Python ecosystem
-- **AI/ML Solutions**: Develop RAG-based LLM using cutting-edge AI/ML techniques
-- **Search Solutions**: Architected and implemented advanced search functionality for Ansys Sphinx theme, transitioning from MeiliSearch backend to static Fuse.js implementation
-- **Documentation Systems**: Created comprehensive search indexing systems for multi-version private documentation projects
-- **DevOps**: Implement CI/CD pipelines for automated testing and deployment
-- **Documentation**: Write and manage project documentation with Sphinx
-- **Collaboration**: Use GitHub for version control and team collaboration
+- PyAnsys Core Team: Main contributor to the PyAnsys core team, maily focusing on automation and maintainance of PyAnsys libraries.
+- PyDyna Maintainer: One of the maintainers for PyDyna, contributing to simulation modules, automation, and community support
+- Theme Development: Develop and maintain Ansys Sphinx themes using HTML, CSS, JavaScript, and Python
+- Frontend Technologies: Create responsive and interactive theme components using modern web technologies
+- Search Solutions: Architected and implemented advanced search functionality for Ansys Sphinx theme, transitioning from MeiliSearch backend to static Fuse.js implementation
+- Build Systems: Design and implement automated build processes for theme distribution and updates
+- Community Engagement: Support users, manage issues, and onboard contributors for PyAnsys ecosystem
+- AI/ML Solutions: Develop RAG-based LLM using cutting-edge AI/ML techniques
+- Collaboration: Use GitHub for version control and team collaboration
 
 ### Machine Learning & Robotics Intern at SITIA Robotique (2021-2022)
 - **Computer Vision**: Developed Python-based software for robot vision systems
