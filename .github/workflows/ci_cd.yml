@@ -88,8 +88,9 @@ jobs:
       - name: Deploy CV to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.6.3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+          repository-name: Revathyvenugopal162/revathyvenugopal162.github.io
+          branch: main 
           folder: site
           clean: true
           single-commit: true
