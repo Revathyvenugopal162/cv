@@ -24,6 +24,14 @@ website:
             text: "AI/ML Journey"
           - href: posts/search-solutions-evolution.qmd
             text: "Search Solutions Evolution"
+      - section: "Talks"
+        contents:
+          - href: talks/2023-scipy-austin.qmd
+            text: "SciPy 2023, Austin"
+          - href: talks/2024-scipy-tacoma.qmd
+            text: "SciPy 2024, Tacoma"
+          - href: talks/2025-euroscipy.qmd
+            text: "EuroSciPy 2025, Poland"
 
 # format: 
 #   html: 

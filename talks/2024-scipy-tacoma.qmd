@@ -1,0 +1,29 @@
+---
+title: "AutoAPI Templates with Sphinx Theme"
+description: "Presented at SciPy Tacoma 2024"
+author: "Revathy Venugopal"
+date: "2024-07-15"
+---
+
+# AutoAPI Templates with Sphinx Theme
+
+Presented at SciPy Tacoma 2024.
+
+## Overview
+
+A talk on designing AutoAPI templates and integrating them with a Sphinx theme for improved documentation automation and user experience.
+
+## Motivation
+
+Why template customization and automation are important for scalable documentation.
+
+## Key Points
+
+- AutoAPI template design principles
+- Sphinx theme integration
+- Automation workflows
+- Demo highlights
+
+## related links
+
+- Ansys sphinx theme: [sphinxdocs.ansys.com](https://sphinxdocs.ansys.com)
