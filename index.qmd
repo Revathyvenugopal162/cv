@@ -31,6 +31,7 @@ Proficient in Python programming, I have successfully developed and maintained m
 
 ::: {.g-col-6}
 ### 🔧 Software Development
+
 - **Python Development**: Building efficient and scalable applications
 - **AI/ML**: Developing RAG-based LLM solutions
 - **Computer Vision**: TensorFlow, OpenCV, PyTorch implementations
@@ -39,6 +40,7 @@ Proficient in Python programming, I have successfully developed and maintained m
 
 ::: {.g-col-6}
 ### 🤖 Embedded Systems
+
 - **Automotive Systems**: Real-time operating systems and embedded C
 - **Robotics**: Obstacle detection and autonomous navigation
 - **IoT Development**: Connected device solutions
@@ -158,11 +160,13 @@ Focus: Electrical and electronics engineering, power systems, electrical machine
 ### Completed Courses & Certifications
 
 **Pluralsight Courses:**
+
 - **Vector Space Models and Embeddings in RAGs** (August 2024): Advanced RAG implementations, vector embeddings, semantic search
 - **Docker and Kubernetes: The Big Picture** (August 2023, 1.8 hrs): Containerization, orchestration, DevOps practices
 - **JavaScript: Getting Started** (March 2023, 4 hrs): JavaScript fundamentals, web development, DOM manipulation
 
 **Coursera Certifications:**
+
 - **Using Python to Access Web Data** (2021): Python, web data, web scraping, web services, XML, JSON
 - **Introduction to Programming Using Python** (2020): Python, programming, data structures, algorithms
 - **Python Data Structures** (2020): Python, data structures, algorithms, programming
