@@ -20,6 +20,7 @@ My journey from embedded systems engineering to AI/ML development has been fasci
 My technical journey began with a deep dive into embedded systems during my Master's degree in Automotive Embedded Systems from ESIGELEC (France) and MAHE (India). This foundation taught me:
 
 ### Core Principles
+
 - **Real-time Constraints**: Understanding the critical importance of timing in systems
 - **Resource Optimization**: Working with limited memory and processing power
 - **Safety-Critical Thinking**: Developing software where failures have real-world consequences
@@ -31,42 +32,42 @@ Working with automotive data analysis, implementing machine learning pipelines, 
 
 ## The Transition: Computer Vision and Robotics
 
-During my internship at SITIA Robotique, I discovered the exciting world of computer vision and robotics. This was my first real exposure to AI/ML technologies:
+During my early career, I discovered the exciting world of computer vision and robotics. This was my first real exposure to AI/ML technologies:
 
 ### Key Projects
+
 - **Computer Vision with TensorFlow**: Implemented CNN-based image classification for robot navigation
 - **Path Planning**: Developed algorithms for real-time robot navigation using reinforcement learning
-- **Sensor Fusion**: Combined camera and LiDAR data for robust perception using deep learning
+- **Speed Control**: Developed Kalman filter-based speed control systems for agriculture robots
+- **Sensor Fusion**: Combined camera for robust perception using deep learning
 
 ### Technical Growth
 
-During my internship at SITIA Robotique, I implemented CNN-based image classification for robot navigation, developed real-time path planning algorithms, and worked on sensor fusion combining camera and LiDAR data. This experience taught me the power of deep learning in solving real-world problems and sparked my interest in pursuing AI/ML further.
+I implemented CNN-based image classification for robot navigation, developed real-time path planning algorithms, and worked on sensor fusion combining camera data. This experience taught me the power of deep learning in solving real-world problems and sparked my interest in pursuing AI/ML further.
 
 **Key Achievements:**
+
 - Developed obstacle detection and classification systems using TensorFlow
 - Implemented real-time image processing pipelines with OpenCV
 - Built robust perception systems for autonomous navigation
 - Applied convolutional neural networks for visual recognition tasks
 
-## The Evolution: Python Development at Ansys
+## The Evolution: Python Development
 
-Joining Ansys as an R&D Engineer marked a significant shift in my career. Here, I transitioned from embedded C to Python development, focusing on:
+Transitioning from embedded C to Python development marked a significant shift in my career, focusing on:
 
 ### Technical Responsibilities
-- **PyAnsys Development**: Contributing to the Python ecosystem for simulation software
-- **Documentation**: Creating comprehensive Sphinx documentation  
-- **CI/CD**: Implementing automated testing and deployment pipelines
-- **API Design**: Building user-friendly interfaces for complex simulation tools
+
+- Contributing to the Python ecosystem for simulation software, its maintenance, and enhancement
+- Creating scripts and tools to automate simulation workflows
+- Building user-friendly themes and plugins for documentation automation
+- Implementing automated testing and deployment pipelines
+- Building user-friendly interfaces for complex simulation tools
 
 ### Learning Python Ecosystem
 
-The transition to Python development opened up new possibilities. I learned modern development practices including asynchronous programming, comprehensive testing with pytest, type hinting for better code quality, and API development patterns. Working with the PyAnsys ecosystem taught me how to build scalable, maintainable software that serves thousands of engineers worldwide.
-            result = await self._execute_simulation(config)
-            return self._process_results(result)
-        except TimeoutError:
-            logger.error(f"Simulation timed out after {timeout}s")
-            raise
-```
+The transition to Python development opened up new possibilities. I learned modern development practices including asynchronous programming, comprehensive testing with pytest, type hinting for better code quality, and API development patterns. This experience taught me how to build scalable, maintainable software for engineering applications.
+
 
 ## The Current Focus: RAG-based LLMs
 
@@ -77,9 +78,10 @@ RAG combines the power of large language models with domain-specific knowledge r
 
 ### Technical Implementation
 
-I implemented a comprehensive RAG system using LangChain, OpenAI embeddings, and FAISS vector stores. The system processes technical documentation, creates semantic embeddings, and provides accurate question-answering capabilities for engineering teams.
+I implemented a comprehensive RAG system using LangChain, OpenAI embeddings, and vector stores. The system processes technical documentation, creates semantic embeddings, and provides accurate question-answering capabilities for engineering teams.
 
 **Key Components:**
+
 - Document processing and chunking for optimal retrieval
 - Vector embeddings using OpenAI's embedding models  
 - FAISS vector store for efficient similarity search
@@ -107,11 +109,13 @@ I implemented a comprehensive RAG system using LangChain, OpenAI embeddings, and
 ## Lessons Learned
 
 ### Technical Insights
+
 1. **Foundation Matters**: My embedded systems background taught me to think about constraints and optimization - crucial for efficient AI systems
 2. **Iterative Development**: The transition from waterfall (embedded) to agile (AI/ML) development methodologies
 3. **Community and Open Source**: The Python/AI community's collaborative approach vs. proprietary embedded development
 
 ### Career Development
+
 1. **Continuous Learning**: The AI field evolves rapidly; staying current requires constant learning
 2. **Interdisciplinary Skills**: Combining domain expertise (automotive/engineering) with AI capabilities creates unique value
 3. **Problem-First Approach**: Focus on solving real problems rather than applying trendy technologies
@@ -122,10 +126,7 @@ Looking ahead, I'm excited about several emerging areas:
 
 ### Edge AI
 Bringing AI capabilities to embedded systems - combining my original passion with current expertise. I'm exploring model optimization techniques like quantization and pruning to deploy TensorFlow models on resource-constrained devices, enabling real-time inference in automotive and IoT applications.
-        with open(output_path, 'wb') as f:
-            f.write(tflite_model)
-        
-        return output_path
+
     
 ### Automotive AI
 The intersection of my automotive background and AI expertise opens exciting possibilities:
@@ -141,34 +142,19 @@ The intersection of my automotive background and AI expertise opens exciting pos
 - Developed lane detection systems using CNN architectures
 - Built predictive maintenance models using LSTM networks for time series analysis
 - Implemented real-time inference systems for automotive safety applications
-    
-    def predict_maintenance(self, sensor_time_series):
-        """Predict vehicle maintenance needs."""
-        # sensor_time_series: [engine_temp, oil_pressure, vibration, rpm, speed]
-        sensor_batch = tf.expand_dims(sensor_time_series, axis=0)
-        
-        failure_probability = self.predictive_maintenance_model.predict(sensor_batch)
-        
-        return {
-            'failure_probability': float(failure_probability[0][0]),
-            'maintenance_recommended': failure_probability[0][0] > 0.7,
-            'estimated_days_to_failure': int((1 - failure_probability[0][0]) * 100)
-        }
-```
+
 
 ### Advanced RAG Systems
+
 **Advanced Capabilities I'm Exploring:**
+
 - Multimodal RAG systems combining text, images, and diagrams
 - Real-time knowledge updating and incremental learning
 - Domain-specific fine-tuning for specialized engineering contexts
 - Conversational AI with memory for complex technical discussions
 - Local deployment using HuggingFace models for privacy-sensitive applications
-        
-        # Conversation memory
-        self.memory = ConversationBufferMemory(
-            memory_key="chat_history",
-            return_messages=True
-        )
+- Guard rails and ethical considerations in AI responses
+
 ## Conclusion
 
 The journey from embedded systems to AI/ML has been challenging but incredibly rewarding. Each phase has built upon the previous one:
@@ -182,19 +168,8 @@ The journey from embedded systems to AI/ML has been challenging but incredibly r
 
 The key insight is that diverse technical backgrounds are actually advantageous in AI/ML. The discipline from embedded systems, the practical focus from robotics, and the software engineering practices from Python development all contribute to building better AI systems.
 
-### Advice for Career Transitions
-
-For anyone considering a similar transition, my recommendations are:
-
-1. **Leverage your existing expertise** - don't abandon what you know
-2. **Start with practical projects** - theory is important, but implementation teaches more  
-3. **Join the community** - the AI/ML community is incredibly welcoming and collaborative
-4. **Stay curious** - the field evolves rapidly, embrace continuous learning
-
 ### Looking Forward
 
 The future lies at the intersection of traditional engineering disciplines and AI. As someone who's navigated this path, I'm excited to see where this journey leads next!
 
 ---
-
-*What's your experience with career transitions in tech? I'd love to hear about your journey or connect on [LinkedIn](https://www.linkedin.com/in/revathy-venugopal-3310b5147/) to discuss further!*
