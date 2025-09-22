@@ -1,0 +1,44 @@
+---
+title: "PyMeiliSearch Lightning Talk"
+description: "Presented at SciPy Austin 2023"
+author: "Revathy Venugopal"
+date: "2023-07-12"
+---
+
+# PyMeiliSearch Lightning Talk
+
+Presented at SciPy Austin 2023.
+
+## Overview
+
+A lightning talk on integrating MeiliSearch with Python for fast, flexible search in documentation projects.
+
+## Motivation
+
+Why fast, typo-tolerant search matters for documentation and developer experience.
+
+## Key Points
+
+- Python integration with MeiliSearch
+- Real-world use cases
+- Demo highlights
+
+## Demo
+
+Screenshots and code snippets from the live demo.
+
+## Images
+
+![Demo Screenshot](assets/demo_screenshot_1.jpg)
+
+## Video
+
+[Watch the talk on YouTube](https://youtu.be/RuIk3Wq2Pg0)
+
+## Q&A
+
+Summary of questions and answers from the session.
+
+## Resources
+
+- [Related Blog Post](../posts/search-solutions-evolution.qmd)

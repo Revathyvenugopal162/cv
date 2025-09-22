@@ -1,0 +1,51 @@
+---
+title: "Sphinx Theme for Documentation"
+description: "Presented at EuroSciPy 2025 Poland"
+author: "Revathy Venugopal"
+date: "2025-08-20"
+---
+
+# Sphinx Theme for Documentation
+
+Presented at EuroSciPy 2025 Krakow, Poland.
+
+## Overview
+
+A 20-minute talk on building and customizing Sphinx themes for technical documentation, sharing lessons learned and best practices for maintainable, scalable docs.
+
+## Motivation
+
+Why documentation themes matter for usability, branding, and developer experience.
+
+## Key Points
+
+- Sphinx theme architecture
+- Customization strategies
+- Integration with documentation workflows
+- Demo highlights
+
+## Demo
+
+Screenshots and code snippets from the live demo.
+
+## Images
+
+![Demo Screenshot](assets/demo_screenshot_2.jpeg)
+
+## Video
+
+[Watch the talk on YouTube](https://youtu.be/QU8YCFO6qWM?t=4099)
+
+## Q&A
+
+- Upstream the features to the community
+- Make it easier to customize
+- Improve testing
+
+## Resources
+
+- [Sphinx Themes Documentation](https://sphinxdocs.ansys.com)
+
+## Lessons Learned
+
+Reflections on presenting, audience feedback, and future improvements.
